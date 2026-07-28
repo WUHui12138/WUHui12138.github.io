@@ -43,7 +43,7 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 
   <div class="news-item">
     <span class="news-date">2026.07:</span>
-    <span class="news-text">🎉🎉 Our paper was accepted by <a href="https://ieeexplore.ieee.org/document/11614783/">IEEE Transactions on Power Electronics</a>.</span>
+    <span class="news-text">🎉🎉 Our paper was accepted by IEEE Transactions on Power Electronics.</span>
   </div>
   
   <div class="news-item">
@@ -53,12 +53,12 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 
   <div class="news-item">
     <span class="news-date">2026.07:</span>
-    <span class="news-text">🎉🎉 Our paper was accepted by <a href="https://ieeexplore.ieee.org/document/11614783/">IEEE Transactions on Power Electronics</a>.</span>
+    <span class="news-text">🎉🎉 Our paper was accepted by IEEE Transactions on Power Electronics.</span>
   </div>
-
+  
   <div class="news-item">
     <span class="news-date">2026.07:</span>
-    <span class="news-text">🎉🎉 Our paper was accepted by <a href="https://ieeexplore.ieee.org/document/11614783/">IEEE Transactions on Power Electronics</a>.</span>
+    <span class="news-text">🎉🎉 Our paper was accepted by IEEE Transactions on Power Electronics.</span>
   </div>
   
   <div class="news-item">
