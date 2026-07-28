@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Biography
+# 👤 Biography
 
 Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huazhong University of Science and Technology, Wuhan, China, in 2021 and 2024, respectively. He is currently a Ph.D. candidate in the Department of Electrical and Electronic Engineering at The Hong Kong Polytechnic University, Hong Kong SAR, China, supervised by [Prof. Shuangxia Niu](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-niu-shuang-xia/). He began his doctoral studies in 2024 and expects to receive the Ph.D. degree in 2027. He also works closely with [Prof. Wei Liu](https://web.ece.hku.hk/~liuwei/) and [Prof. K. T. Chau](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-kwok-tong/).
 
-# Research Interests
+# 🔬 Research Interests
 
 - Control of dual-rotor machines
 - Harmonic suppression
@@ -124,6 +124,11 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 
 - *2024* PolyU Presidential PhD Fellowship, The Hong Kong Polytechnic University. 
 - *2018* National Scholarship, China. 
+
+{% comment %}
+# 🛠️ Projects
+
+{% endcomment %}
 
 {% comment %}
 # 💬 Invited Talks
