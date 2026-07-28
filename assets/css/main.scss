@@ -152,10 +152,16 @@ h1:before, .anchor:before {
 /* Mobile layout */
 @media screen and (max-width: 600px) {
     .news-box {
-        max-height: 320px;
-        padding: 0.5em 0.8em;
+        max-height: 280px;
+        overflow-y: auto;
+        margin: 0.8em 0 1.8em;
+        padding: 0.6em 1em;
+        border: 1px solid #d0d7de;
+        border-radius: 6px;
+        background-color: #fcfcfd;
+        box-shadow: 0 1px 2px rgba(31, 78, 121, 0.06);
+        scrollbar-gutter: stable;
     }
-
     .news-item {
         grid-template-columns: 1fr;
         row-gap: 0.15em;
@@ -166,17 +172,21 @@ h1:before, .anchor:before {
     }
 }
 
-/* Publication title links */
-.page__content ol > li > strong > a,
-.page__content ol > li > strong > a:visited {
+/* Journal and conference paper title links */
+#journal-papers + ol > li > p > strong > a,
+#journal-papers + ol > li > p > strong > a:visited,
+#conference-papers + ol > li > p > strong > a,
+#conference-papers + ol > li > p > strong > a:visited {
     color: #1f4e79;
     text-decoration: none;
     border-bottom: none;
     box-shadow: none;
 }
 
-.page__content ol > li > strong > a:hover,
-.page__content ol > li > strong > a:focus {
+#journal-papers + ol > li > p > strong > a:hover,
+#journal-papers + ol > li > p > strong > a:focus,
+#conference-papers + ol > li > p > strong > a:hover,
+#conference-papers + ol > li > p > strong > a:focus {
     color: #163a5c;
     text-decoration: underline;
     text-underline-offset: 2px;
