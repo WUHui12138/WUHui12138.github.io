@@ -62,47 +62,48 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 
 ## Journal Papers
 
-1. <span style="color:#C16C6C"><strong>[TPEL]</strong></span> **[Multi-Harmonic Torque Suppression for Single-Phase Open-Circuit Fault-Tolerant Operation of Brushless Dual Rotor Machines with Neutral Points Connection](https://ieeexplore.ieee.org/document/11614783/)**  
+1. <span style="color:#B44C4C"><strong>[TPEL]</strong></span> **[Multi-Harmonic Torque Suppression for Single-Phase Open-Circuit Fault-Tolerant Operation of Brushless Dual Rotor Machines with Neutral Points Connection](https://ieeexplore.ieee.org/document/11614783/)**  
    **Hui Wu**, Shuangxia Niu<sup>📧</sup>, Zekai Lyu, Mingyuan Jiang, Chunhua Liu, Wei Liu, and K. T. Chau.  
-   *IEEE Transactions on Power Electronics*, 2026.  
-   
-1. <span style="color:#C16C6C"><strong>[TIE]</strong></span> **[Improved Predictive Speed Control of Brushless Dual Rotor Motors Considering Speed Measurement Delay and Virtual Inertia Identification](https://ieeexplore.ieee.org/abstract/document/11523186/)**  
+   <span style="color:#59636E"><em>IEEE Transactions on Power Electronics</em>, 2026.</span>
+
+1. <span style="color:#B44C4C"><strong>[TIE]</strong></span> **[Improved Predictive Speed Control of Brushless Dual Rotor Motors Considering Speed Measurement Delay and Virtual Inertia Identification](https://ieeexplore.ieee.org/abstract/document/11523186/)**  
    **Hui Wu**, Shuangxia Niu<sup>📧</sup>, Zekai Lyu, Zhenyao Sun, Mingyuan Jiang, Chunhua Liu, Wei Liu, and K. T. Chau.  
-   *IEEE Transactions on Industrial Electronics*, 2026.  
-   
-1. <strong style="color: #C16C6C;">[TTE]</strong> **[Design and Comparative Study of Novel Multi-PM Multi-Teeth Flux-Switching Machines](https://ieeexplore.ieee.org/abstract/document/11520467/)**  
-  Ziqi Huang, Mingyuan Jiang, Shuangxia Niu, Zekai Lyu, Zhenghao Li, Litao Dai, and **Hui Wu**.  
-  *IEEE Transactions on Transportation Electrification*, 2026. 
+   <span style="color:#59636E"><em>IEEE Transactions on Industrial Electronics</em>, 2026.</span>
 
-1. <strong style="color: #C16C6C;">[TPEL]</strong> **[Demagnetization-Induced Harmonic Currents in PMSM Drives: Analysis and Online Neural Network-Based Suppression](https://ieeexplore.ieee.org/abstract/document/11479664/)**
-    Zekai Lyu, Shuangxia Niu<sup>📧</sup>, Litao Dai, Haolan Zhan, **Hui Wu**, Wei Liu, and K. T. Chau.  
-   *IEEE Transactions on Power Electronics*, 2026.
+1. <span style="color:#B44C4C"><strong>[TTE]</strong></span> **[Design and Comparative Study of Novel Multi-PM Multi-Teeth Flux-Switching Machines](https://ieeexplore.ieee.org/abstract/document/11520467/)**  
+   Ziqi Huang, Mingyuan Jiang, Shuangxia Niu, Zekai Lyu, Zhenghao Li, Litao Dai, and **Hui Wu**.  
+   <span style="color:#59636E"><em>IEEE Transactions on Transportation Electrification</em>, 2026.</span>
 
-1. <strong style="color: #C16C6C;">[TPEL]</strong> **[Virtual Moment of Inertia-Based Independent Dual-Speed Regulation of Brushless Dual Rotor Machines](https://ieeexplore.ieee.org/abstract/document/11224592/)**  
-  **Hui Wu**, Shuangxia Niu<sup>📧</sup>, Zekai Lyu, Mingyuan Jiang, Chunhua Liu, Wei Liu, and K. T. Chau.  
-  *IEEE Transactions on Power Electronics*, 2026.
+1. <span style="color:#B44C4C"><strong>[TPEL]</strong></span> **[Demagnetization-Induced Harmonic Currents in PMSM Drives: Analysis and Online Neural Network-Based Suppression](https://ieeexplore.ieee.org/abstract/document/11479664/)**  
+   Zekai Lyu, Shuangxia Niu<sup>📧</sup>, Litao Dai, Haolan Zhan, **Hui Wu**, Wei Liu, and K. T. Chau.  
+   <span style="color:#59636E"><em>IEEE Transactions on Power Electronics</em>, 2026.</span>
 
-1. <strong style="color: #C16C6C;">[TIE]</strong> **[Active Disturbance Rejection Speed Control With Double-Stage-ESO Considering Aperiodic and Periodic Disturbances for PMSM Drives](https://ieeexplore.ieee.org/document/10829376/)**  
-  **Hui Wu**, Chun Gan<sup>📧</sup>, Hongzhe Wang, Shuanghong Wang, Ronghai Qu, and Xingzhong Liu.  
-  *IEEE Transactions on Industrial Electronics*, 2025. 
+1. <span style="color:#B44C4C"><strong>[TPEL]</strong></span> **[Virtual Moment of Inertia-Based Independent Dual-Speed Regulation of Brushless Dual Rotor Machines](https://ieeexplore.ieee.org/abstract/document/11224592/)**  
+   **Hui Wu**, Shuangxia Niu<sup>📧</sup>, Zekai Lyu, Mingyuan Jiang, Chunhua Liu, Wei Liu, and K. T. Chau.  
+   <span style="color:#59636E"><em>IEEE Transactions on Power Electronics</em>, 2026.</span>
+
+1. <span style="color:#B44C4C"><strong>[TIE]</strong></span> **[Active Disturbance Rejection Speed Control With Double-Stage-ESO Considering Aperiodic and Periodic Disturbances for PMSM Drives](https://ieeexplore.ieee.org/document/10829376/)**  
+   **Hui Wu**, Chun Gan<sup>📧</sup>, Hongzhe Wang, Shuanghong Wang, Ronghai Qu, and Xingzhong Liu.  
+   <span style="color:#59636E"><em>IEEE Transactions on Industrial Electronics</em>, 2025.</span>
 
 
 ## Conference Papers
-1. <span style="color:#C16C6C"><strong>[CIEEC’26]</strong></span> **[Open-Circuit Fault-Tolerant Control Strategy for Brushless Dual Rotor Machines](https://ieeexplore.ieee.org/abstract/document/11572443/)**  
-**Hui Wu**, Shuangxia Niu<sup>📧</sup>, Zekai Lyu, and Mingyuan Jiang.  
-*2026 IEEE 9th International Electrical and Energy Conference (CIEEC)*, 2026.  
 
-1. <strong style="color: #C16C6C;">[ICARM’25]</strong> **[Radial Basis Function-Based Deadbeat Predictive Current Control of Brushless Dual Rotor Machines](https://ieeexplore.ieee.org/abstract/document/11293479/)**  
-**Hui Wu**, Shuangxia Niu<sup>📧</sup>, Zekai Lyu, and Mingyuan Jiang.  
-*2025 10th IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)*, 2025.
+1. <span style="color:#B44C4C"><strong>[CIEEC’26]</strong></span> **[Open-Circuit Fault-Tolerant Control Strategy for Brushless Dual Rotor Machines](https://ieeexplore.ieee.org/abstract/document/11572443/)**  
+   **Hui Wu**, Shuangxia Niu<sup>📧</sup>, Zekai Lyu, and Mingyuan Jiang.  
+   <span style="color:#59636E"><em>2026 IEEE 9th International Electrical and Energy Conference (CIEEC)</em>, 2026.</span>
 
-1. <strong style="color: #C16C6C;">[IEMDC’25]</strong> **[Model Compensation-Based Active Disturbance Rejection Control of Brushless Dual-Electrical-Port Dual-Mechanical-Port Machine](https://ieeexplore.ieee.org/abstract/document/11061176)**  
-**Hui Wu**, Shuangxia Niu<sup>📧</sup>, Mingyuan Jiang, Wei Liu, and Kwok Tong Chau.  
-*2025 IEEE International Electric Machines and Drives Conference (IEMDC)*, 2025.
+1. <span style="color:#B44C4C"><strong>[ICARM’25]</strong></span> **[Radial Basis Function-Based Deadbeat Predictive Current Control of Brushless Dual Rotor Machines](https://ieeexplore.ieee.org/abstract/document/11293479/)**  
+   **Hui Wu**, Shuangxia Niu<sup>📧</sup>, Zekai Lyu, and Mingyuan Jiang.  
+   <span style="color:#59636E"><em>2025 10th IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)</em>, 2025.</span>
 
-1. <strong style="color: #C16C6C;">[ICEMS’23]</strong> **[Harmonic Current Suppression for PMSM Drives With Enhanced ADRC Based on Fractional-Order Vector Resonant Control](https://ieeexplore.ieee.org/abstract/document/10345232/)**  
-**Hui Wu**, Chun Gan<sup>📧</sup>, Kai Ni, Shuanghong Wang, and Ronghai Qu.  
-*2023 26th International Conference on Electrical Machines and Systems (ICEMS)*, 2023.
+1. <span style="color:#B44C4C"><strong>[IEMDC’25]</strong></span> **[Model Compensation-Based Active Disturbance Rejection Control of Brushless Dual-Electrical-Port Dual-Mechanical-Port Machine](https://ieeexplore.ieee.org/abstract/document/11061176/)**  
+   **Hui Wu**, Shuangxia Niu<sup>📧</sup>, Mingyuan Jiang, Wei Liu, and Kwok Tong Chau.  
+   <span style="color:#59636E"><em>2025 IEEE International Electric Machines and Drives Conference (IEMDC)</em>, 2025.</span>
+
+1. <span style="color:#B44C4C"><strong>[ICEMS’23]</strong></span> **[Harmonic Current Suppression for PMSM Drives With Enhanced ADRC Based on Fractional-Order Vector Resonant Control](https://ieeexplore.ieee.org/abstract/document/10345232/)**  
+   **Hui Wu**, Chun Gan<sup>📧</sup>, Kai Ni, Shuanghong Wang, and Ronghai Qu.  
+   <span style="color:#59636E"><em>2023 26th International Conference on Electrical Machines and Systems (ICEMS)</em>, 2023.</span>
 
 # 🎖 Honors and Awards
 
