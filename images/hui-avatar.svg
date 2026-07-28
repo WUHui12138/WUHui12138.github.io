@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="512"
+     height="512"
+     viewBox="0 0 512 512"
+     role="img"
+     aria-labelledby="avatar-title avatar-description">
+  <title id="avatar-title">HUI avatar</title>
+  <desc id="avatar-description">White HUI initials on an academic navy circular background with a pale blue-gray outer ring.</desc>
+  <circle cx="256" cy="256" r="248" fill="#E8EEF5"/>
+  <circle cx="256" cy="256" r="226" fill="#1F4E79"/>
+  <text x="256"
+        y="264"
+        fill="#FFFFFF"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="112"
+        font-weight="700"
+        letter-spacing="10"
+        text-anchor="middle"
+        dominant-baseline="middle">HUI</text>
+</svg>
