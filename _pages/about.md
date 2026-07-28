@@ -40,6 +40,11 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 
 # 📝 Publications 
 
+## Journal Papers
+
+1. **Hui Wu**, Chun Gan, Hongzhe Wang, Shuanghong Wang, Ronghai Qu, and Xingzhong Liu, “[Active Disturbance Rejection Speed Control With Double-Stage-ESO Considering Aperiodic and Periodic Disturbances for PMSM Drives](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHTZ9WMAAAAJ&citation_for_view=rHTZ9WMAAAAJ:u5HHmVD_uO8C),” *IEEE Transactions on Industrial Electronics*, 2025. [[DOI]](https://doi.org/10.1109/TIE.2024.3519622)
+
+## Conference Papers
 
 
 # 🎖 Honors and Awards
