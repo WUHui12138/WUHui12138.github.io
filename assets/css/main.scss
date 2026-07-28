@@ -165,3 +165,19 @@ h1:before, .anchor:before {
         font-weight: 600;
     }
 }
+
+/* Publication title links */
+.page__content ol > li > strong > a,
+.page__content ol > li > strong > a:visited {
+    color: #1f4e79;
+    text-decoration: none;
+    border-bottom: none;
+    box-shadow: none;
+}
+
+.page__content ol > li > strong > a:hover,
+.page__content ol > li > strong > a:focus {
+    color: #163a5c;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
