@@ -3,7 +3,7 @@ name: Get Citation Data from Google
 on: 
  page_build: 
  schedule:
-  - cron:  '0 8 * * *'
+  - cron:  '17 8 * * *'
 
 jobs:
   build:
