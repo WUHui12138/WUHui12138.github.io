@@ -52,12 +52,17 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
   </div>
 
   <div class="news-item">
-    <span class="news-date">2026.07:</span>
-    <span class="news-text">🎉🎉 Our paper was accepted by IEEE Transactions on Power Electronics.</span>
+    <span class="news-date">2026.05:</span>
+    <span class="news-text">🎉🎉 Our paper was accepted by IEEE Transactions on Industrial Electronics.</span>
   </div>
   
   <div class="news-item">
-    <span class="news-date">2026.07:</span>
+    <span class="news-date">2026.05:</span>
+    <span class="news-text">🎉🎉 Our paper was accepted by IEEE Transactions on Transportation Electrification.</span>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date">2025.10:</span>
     <span class="news-text">🎉🎉 Our paper was accepted by IEEE Transactions on Power Electronics.</span>
   </div>
   
