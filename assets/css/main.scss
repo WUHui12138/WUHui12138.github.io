@@ -110,7 +110,7 @@ h1:before, .anchor:before {
 
 /* Scrollable News box */
 .news-box {
-    max-height: 280px;
+    max-height: 170px;
     overflow-y: auto;
     margin: 0.8em 0 1.8em;
     padding: 0.6em 1em;
@@ -152,7 +152,7 @@ h1:before, .anchor:before {
 /* Mobile layout */
 @media screen and (max-width: 600px) {
     .news-box {
-        max-height: 280px;
+        max-height: 170px;
         overflow-y: auto;
         margin: 0.8em 0 1.8em;
         padding: 0.6em 1em;
