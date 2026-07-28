@@ -122,7 +122,7 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 
 # 🎖️ Honors and Awards
 
-- *2024* PolyU Presidential PhD Fellowship, The Hong Kong Polytechnic University. 
+- *2024* PolyU Presidential PhD Fellowship (PPPFS), The Hong Kong Polytechnic University. 
 - *2018* National Scholarship, China. 
 
 {% comment %}
