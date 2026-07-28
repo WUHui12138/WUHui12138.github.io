@@ -39,8 +39,24 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 
 # 🔥 News
 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="news-box">
+
+  <div class="news-item">
+    <span class="news-date">2026.07:</span>
+    <span class="news-text">🎉🎉 Our paper was accepted by <a href="https://ieeexplore.ieee.org/document/11614783/">IEEE Transactions on Power Electronics</a>.</span>
+  </div>
+  
+  <div class="news-item">
+    <span class="news-date">2026.05:</span>
+    <span class="news-text">🎓 Passed the Ph.D. Qualifying Examination and advanced to Ph.D. candidature.</span>
+  </div>
+  
+  <div class="news-item">
+    <span class="news-date">2024.01:</span>
+    <span class="news-text">🏆 Awarded the PolyU Presidential PhD Fellowship.</span>
+  </div>
+
+</div>
 
 # 📝 Publications 
 
