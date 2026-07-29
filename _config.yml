@@ -9,6 +9,8 @@
 title                    : "Hui Wu"
 description              : "Ph.D. Candidate in Electrical and Electronic Engineering at The Hong Kong Polytechnic University."
 repository               : "WUHui12138/WUHui12138.github.io"
+url                      : "https://wuhui12138.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
