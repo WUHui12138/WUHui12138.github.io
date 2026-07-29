@@ -75,9 +75,11 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 
 # 📝 Publications 
 
-<p style="font-size:0.9em; color:#59636E; margin-top:1em;">
-  <sup>†</sup> Equal contribution / Co-first authors.&nbsp;&nbsp;
-  <sup>*</sup> Corresponding author.
+<p style="margin:0.15em 0 1.2em; font-size:0.82em; color:#6B7280;">
+  {% comment %}
+  † Co-first author &nbsp;·&nbsp;
+  {% endcomment %}
+  * Corresponding author
 </p>
 
 ## Journal Papers
