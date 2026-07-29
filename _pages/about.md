@@ -120,6 +120,8 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
    <strong style="color:#364152; font-weight:700;">Hui Wu</strong>, Chun Gan<sup>📧</sup>, Kai Ni, Shuanghong Wang, and Ronghai Qu.  
    <span style="color:#59636E"><em>2023 26th International Conference on Electrical Machines and Systems (ICEMS)</em>, 2023.</span>
 
+<span class="anchor" id="honors-and-awards"></span>
+
 # 🎖️ Honors and Awards
 
 - **2024**, PolyU Presidential PhD Fellowship (PPPFS), *PolyU*.
