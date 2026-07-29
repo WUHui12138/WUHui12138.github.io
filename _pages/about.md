@@ -122,12 +122,12 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 
 # 🎖️ Honors and Awards
 
-- **2024** — PolyU Presidential PhD Fellowship (PPPFS) — *PolyU*.
-- **2022** — Second Prize, China Post-Graduate Mathematical Contest in Modeling (Team Leader) — *CAGDEA*.
-- **2021** — Outstanding Graduate Award — *HUST*.
-- **2019** — Outstanding Communist Youth League Cadre — *HUST*.
-- **2019** — National Encouragement Scholarship (Top 5%) — *Ministry of Education of China*.
-- **2018** — National Scholarship (Top 1%) — *Ministry of Education of China*.
+- **2024**, PolyU Presidential PhD Fellowship (PPPFS), *PolyU*.
+- **2022**, Second Prize, China Post-Graduate Mathematical Contest in Modeling (Team Leader), *CAGDEA*.
+- **2021**, Outstanding Graduate Award, *HUST*.
+- **2019**, Outstanding Communist Youth League Cadre, *HUST*.
+- **2019**, National Encouragement Scholarship (Top 5%), *Ministry of Education of China*.
+- **2018**, National Scholarship (Top 1%), *Ministry of Education of China*.
 
 {% comment %}
 # 🛠️ Projects
