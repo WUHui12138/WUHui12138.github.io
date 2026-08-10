@@ -37,6 +37,10 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 - *2021 - 2024*, M.Sc. in Electrical Engineering, Huazhong University of Science and Technology, Wuhan, China.
 - *2017 - 2021*, B.Eng. in Electrical Engineering, Huazhong University of Science and Technology, Wuhan, China.
 
+
+{% comment %}
+
+
 # 🔥 News
 
 <div class="news-box">
@@ -72,6 +76,8 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
   </div>
 
 </div>
+
+{% endcomment %}
 
 # 📝 Publications 
 
@@ -132,7 +138,7 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 # 🎖️ Honors and Awards
 
 - **2024**, PolyU Presidential PhD Fellowship (PPPFS), *PolyU*.
-- **2022**, Second Prize, China Post-Graduate Mathematical Contest in Modeling (Team Leader), *CAGDEA*.
+- **2022**, Second Prize, China Post-Graduate Mathematical Contest in Modeling (Team Leader).
 - **2021**, Outstanding Graduate Award, *HUST*.
 - **2019**, Outstanding Communist Youth League Cadre, *HUST*.
 - **2019**, National Encouragement Scholarship (Top 5%), *Ministry of Education of China*.
