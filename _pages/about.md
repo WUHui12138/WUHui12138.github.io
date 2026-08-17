@@ -24,7 +24,7 @@ Hui Wu received the B.Eng. and M.Sc. degrees in electrical engineering from Huaz
 # 🔬 Research Interests
 
 - Multi-port energy router, distributed energy storage, energy management, inertia support
-- Drive control of dual-rotor machines, Harmonic suppression, Advanced control strategies
+- Drive control of dual-rotor machines, harmonic suppression, advanced control strategies
 
 {% comment %}
 📢 I am seeking highly collaborators interested in control of dual-rotor machines. Feel free to reach out via email if you are interested in potential research collaborations.
